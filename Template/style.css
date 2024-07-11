@@ -684,10 +684,13 @@ div.desc {
     text-decoration: none;
     color: black;
 }
-#I i {
+#item-I i {
     float: left;
 }
-#I li span {
+.I li{
+    padding: 5px;
+}
+.I li span {
     left: 2rem;
 }
 
